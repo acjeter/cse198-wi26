@@ -1,0 +1,15 @@
+# Example structure. Staff: Update this file with real events.
+
+- name: "Example: Introduction to Circuits at Gompers Prep"
+  date: "TBD"
+  time: "TBD"
+  location: "Gompers Preparatory Academy"
+  points: 1
+  link: "https://hknhub.ucsd.edu/" # HKN Portal Link
+
+- name: "Example: Python Basics at Lincoln High"
+  date: "TBD"
+  time: "TBD"
+  location: "Lincoln High School"
+  points: 1
+  link: "https://hknhub.ucsd.edu/"
