@@ -1,0 +1,33 @@
+title: CSE 198 Winter 2026
+description: HKN Outreach Directed Group Study
+url: "https://acjeter.github.io/cse198-wi26" # Placeholder, update if needed
+
+remote_theme: just-the-docs/just-the-docs
+
+# Navigation
+aux_links:
+  "HKN Outreach Portal": https://hknhub.ucsd.edu/
+  "Discord": https://discord.gg/8MJyMj6HKr
+
+# Search
+search_enabled: true
+heading_anchors: true
+
+# Footer
+footer_content: "CSE 198 Winter 2026 | UC San Diego"
+
+# Collections (optional, enables _assignments folder if we want strict collection usage)
+collections:
+  assignments:
+    output: true
+    permalink: /assignments/:path/
+  guides:
+    output: true
+    permalink: /guides/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
