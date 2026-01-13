@@ -21,7 +21,7 @@ Welcome to the CSE 198 HKN Outreach course website. This course offers students 
    *Required for all course communication and ride coordination.*
 
 2. **Create HKN Portal Account**
-   [HKN Outreach Portal](https://hknhub.ucsd.edu/)
+   [HKN Outreach Portal](https://portal.hknucsd.com/)
    *Required for RSVPing to events and tracking points.*
 
 3. **Check the Schedule**

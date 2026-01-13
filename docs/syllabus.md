@@ -30,7 +30,7 @@ permalink: /docs/syllabus.html
 ### Logistics
 - **Units:** 2 Credits (P/NP)
 - **Meetings:** Weekly 1-hour meetings.
-- **Optional:** Presentation skills sessions (Early quarter).
+<!-- - **Optional:** Presentation skills sessions (Early quarter). -->
 
 ---
 
@@ -50,9 +50,9 @@ You must attend at least **5 lessons/events total** during the quarter.
 
 ### 3. Deliverables
 - **Mandated Reporter Training:** Complete by Week 4.
-- **Content Quizzes:** Pass quiz 1 day before any CSE lesson you attend.
+- **Content Quizzes:** Pass quiz 1 day before any 198 lesson you attend.
 - **Feedback Forms:** Submit within 24 hours of every lesson attended.
-- **Reflections:** Write **2 total** (1-2 pages each) on CSE lessons attended, including pedagogy research.
+- **Reflections:** Write **2 total** (1-2 pages each) on CSE lessons attended, including pedagogy research. These reflections take the form of an Academic Paper.
 - **Final Presentation:** Individual 2-3 minute presentation in Week 10.
 - **Final Report:** (Or optional Technical Report for petitions).
 
@@ -72,15 +72,15 @@ You must attend at least **5 lessons/events total** during the quarter.
 
 ### Mandated Reporter Training
 Required by UC policy for working with minors.
-- **Due:** Week 4.
+- **Due:** End of Week 4.
 - **Action:** Complete "CANRA" and "Abuse Risk Management for Volunteers" trainings.
 - **Submission:** Email/Upload certificate (or screenshot of alternative course completion if access issues arise).
 
 ### Communication
 - **Discord:** [https://discord.gg/8MJyMj6HKr](https://discord.gg/8MJyMj6HKr) (Primary implementation for rides/updates).
-- **Portal:** [HKN Outreach Portal](https://hknhub.ucsd.edu/) (Scheduling).
+- **Portal:** [HKN Outreach Portal](https://portal.hknucsd.com) (Scheduling).
 
 ---
 
 ## Accommodations
-If you need specific accommodations or have conflicts with the outreach minimums due to extenuating circumstances, please contact the Course Leader or Faculty Advisor immediately.
+If you need specific accommodations or have conflicts with the outreach minimums due to extenuating circumstances, please contact me at [ajeter@ucsd.edu](mailto:ajeter@ucsd.edu) or on Discord (@CaptainEnderjet) as soon as possible.
