@@ -2,7 +2,7 @@ title: CSE 198 Winter 2026
 description: HKN Outreach Directed Group Study
 url: "https://acjeter.github.io/cse198-wi26" # Placeholder, update if needed
 
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
 
 # Navigation
 aux_links:
