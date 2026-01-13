@@ -22,9 +22,9 @@ Important deliverables throughout the quarter.
 
 | Deliverable | Deadline | Notes |
 |:------------|:---------|:------|
-{% for d in site.data.deadlines %}
+{%- for d in site.data.deadlines %}
 | **{{ d.deliverable }}** | {{ d.deadline }} | {{ d.notes }} |
-{% endfor %}
+{%- endfor %}
 
 ---
 
@@ -34,9 +34,9 @@ Upcoming outreach opportunities. **RSVP on the HKN Portal is required.**
 
 | Event | Date / Time | Location | Points | RSVP |
 |:------|:------------|:---------|:-------|:-----|
-{% for e in site.data.events %}
+{%- for e in site.data.events %}
 | **{{ e.name }}** | {{ e.date }}<br>{{ e.time }} | {{ e.location }} | {{ e.points }} | [Link]({{ e.link }}) |
-{% endfor %}
+{%- endfor %}
 
 > [!TIP]
 > Visit the [HKN Outreach Portal](https://hknhub.ucsd.edu/) for the most up-to-date list of events and real-time availability.
