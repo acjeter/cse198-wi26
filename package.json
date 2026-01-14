@@ -1,0 +1,12 @@
+{
+  "name": "cse198-website",
+  "version": "1.0.0",
+  "description": "CSE 198 Winter 2026 Course Website",
+  "scripts": {
+    "dev": "bundle exec jekyll serve --livereload",
+    "build": "bundle exec jekyll build",
+    "install-deps": "bundle install"
+  },
+  "author": "Andrew Jeter",
+  "license": "UNLICENSED"
+}
