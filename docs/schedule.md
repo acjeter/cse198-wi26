@@ -16,7 +16,7 @@ Below is the week-by-week schedule for CSE 198. Please note that exact topics ma
 | **{{ item.week }}** | {{ item.topic }}<br>_{{ item.dates }}_ | {{ item.notes }} | {{ item.due }} |
 {%- endfor %}
 
-{: .note }
+{: .note-title }
 > **Note**
 >
 > All deadlines are typically 11:59 PM unless otherwise stated.
