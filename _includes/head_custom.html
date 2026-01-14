@@ -1,7 +1,114 @@
 <style>
-    /* Override warning title color for better contrast on yellow background */
-    .warning-title {
-        color: #7d5a00 !important;
-        /* Darker amber/brown */
-    }
+  .theme-toggle {
+    background: transparent;
+    border: 1px solid var(--border-color);
+    border-radius: 999px;
+    color: var(--body-text-color);
+    cursor: pointer;
+    font-size: 0.85rem;
+    line-height: 1;
+    margin-left: 0.75rem;
+    padding: 0.35rem 0.6rem;
+  }
+
+  .theme-toggle:focus-visible {
+    outline: 2px solid var(--link-color);
+    outline-offset: 2px;
+  }
 </style>
+
+<script>
+  (function () {
+    const THEME_KEY = 'jtd-theme';
+    const THEMES = { light: 'light', dark: 'dark' };
+    const mediaQuery = window.matchMedia
+      ? window.matchMedia('(prefers-color-scheme: dark)')
+      : null;
+
+    function getStoredTheme() {
+      const stored = localStorage.getItem(THEME_KEY);
+      return THEMES[stored] ? stored : null;
+    }
+
+    function getSystemTheme() {
+      return mediaQuery && mediaQuery.matches ? 'dark' : 'light';
+    }
+
+    function applyTheme(theme, persist) {
+      const nextTheme = THEMES[theme] ? theme : 'light';
+      const themeLink = document.querySelector(
+        'link[href*="just-the-docs-"][rel="stylesheet"]'
+      );
+      if (themeLink) {
+        themeLink.setAttribute(
+          'href',
+          '/assets/css/just-the-docs-' + nextTheme + '.css'
+        );
+      }
+      document.documentElement.setAttribute('data-theme', nextTheme);
+      if (persist) {
+        localStorage.setItem(THEME_KEY, nextTheme);
+      } else {
+        localStorage.removeItem(THEME_KEY);
+      }
+    }
+
+    function updateToggleLabel(button, theme) {
+      if (!button) {
+        return;
+      }
+      button.textContent = theme === 'dark' ? 'Dark' : 'Light';
+      button.setAttribute('aria-pressed', theme === 'dark');
+    }
+
+    const storedTheme = getStoredTheme();
+    const initialTheme = storedTheme || getSystemTheme();
+    applyTheme(initialTheme, false);
+
+    document.addEventListener('DOMContentLoaded', function () {
+      const header = document.getElementById('main-header');
+      if (!header) {
+        return;
+      }
+
+      const button = document.createElement('button');
+      button.id = 'theme-toggle';
+      button.type = 'button';
+      button.className = 'theme-toggle';
+      button.setAttribute('aria-label', 'Toggle color scheme');
+
+      updateToggleLabel(button, document.documentElement.getAttribute('data-theme'));
+
+      const auxNav = header.querySelector('.aux-nav');
+      if (auxNav && auxNav.parentNode) {
+        auxNav.parentNode.insertBefore(button, auxNav);
+      } else {
+        header.appendChild(button);
+      }
+
+      button.addEventListener('click', function () {
+        const current = document.documentElement.getAttribute('data-theme');
+        const next = current === 'dark' ? 'light' : 'dark';
+        applyTheme(next, true);
+        updateToggleLabel(button, next);
+      });
+    });
+
+    if (mediaQuery) {
+      const handleSystemChange = function () {
+        if (getStoredTheme()) {
+          return;
+        }
+        const systemTheme = getSystemTheme();
+        applyTheme(systemTheme, false);
+        const button = document.getElementById('theme-toggle');
+        updateToggleLabel(button, systemTheme);
+      };
+      if (mediaQuery.addEventListener) {
+        mediaQuery.addEventListener('change', handleSystemChange);
+      } else if (mediaQuery.addListener) {
+        mediaQuery.addListener(handleSystemChange);
+      }
+    }
+  })();
+</script>
