@@ -56,7 +56,9 @@ You must attend at least **5 lessons/events total** during the quarter.
 - **Final Presentation:** Individual 2-3 minute presentation in Week 10.
 - **Final Report:** (Or optional Technical Report for petitions).
 
-> [!WARNING]
+{: .important-title }
+> **Important**
+>
 > Failure to meet the outreach minimums or submit required reflections/training will result in a No Pass.
 
 ---
@@ -71,7 +73,7 @@ You must attend at least **5 lessons/events total** during the quarter.
 5. **Feedback:** Submit feedback form within **24 hours**.
 
 ### Mandated Reporter Training
-Required by UC policy for working with minors.
+Required by California State Law and as UC policy for working with minors.
 - **Due:** End of Week 4.
 - **Action:** Complete "CANRA" and "Abuse Risk Management for Volunteers" trainings.
 - **Submission:** Email/Upload certificate (or screenshot of alternative course completion if access issues arise).

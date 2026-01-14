@@ -38,5 +38,7 @@ Upcoming outreach opportunities. **RSVP on the HKN Portal is required.**
 | **{{ e.name }}** | {{ e.date }}<br>{{ e.time }} | {{ e.location }} | {{ e.points }} | [Link]({{ e.link }}) |
 {%- endfor %}
 
-> [!TIP]
+{: .note-title }
+> **Note**
+>
 > Visit the [HKN Outreach Portal](https://portal.hknucsd.com/) for the most up-to-date list of events and real-time availability.

@@ -22,5 +22,7 @@ The [HKN Outreach Portal](https://hknhub.ucsd.edu/) is the single source of trut
 1. Click the "Sign Up" button.
 2. Verify you have received a confirmation email.
 
-> [!IMPORTANT]
-> Signing up commits you to attending. If you need to cancel, please do so **at least 48 hours** in advance so we can find a replacement.
+{: .important-title }
+> **Important**
+>
+> Signing up commits you to attending. If you need to cancel, please do so **at least 24 hours** in advance so others can fill your ride spot.

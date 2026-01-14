@@ -1,4 +1,4 @@
-title: CSE 198 Winter 2026
+title: CSE 198 WI26
 remote_theme: just-the-docs/just-the-docs
 
 plugins:
@@ -6,7 +6,7 @@ plugins:
 
 # Navigation
 aux_links:
-  "HKN Outreach Portal": https://hknhub.ucsd.edu/
+  "HKN Outreach Portal": https://portal.hknucsd.com/
   "Discord": https://discord.gg/8MJyMj6HKr
 
 # Search
@@ -14,7 +14,7 @@ search_enabled: true
 heading_anchors: true
 
 # Footer
-footer_content: "CSE 198 Winter 2026 | UC San Diego"
+footer_content: "CSE 198 Winter 2026 | Copyright © 2026 Andrew Jeter | University of California, San Diego"
 
 # Collections (optional, enables _assignments folder if we want strict collection usage)
 collections:
@@ -31,3 +31,21 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+# Callouts
+remote_theme: just-the-docs/just-the-docs@v0.5.4
+
+callouts_level: loud  # loud = shaded box, quiet = subtle
+callouts:
+  important:
+    title: Important
+    color: red
+  warning:
+    title: Warning
+    color: purple
+  note:
+    title: Note
+    color: blue
+  new:
+    title: New
+    color: green

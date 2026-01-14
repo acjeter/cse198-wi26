@@ -22,7 +22,9 @@ All students working with minors must complete the UC-required Mandated Reporter
 3. Complete both modules.
 4. Save your **Completion Certificates**.
 
-> [!NOTE]
+{: .note-title }
+> **Note**
+>
 > If you cannot access the official UCSD course, you may take the alternative public version (without purchasing a certificate) and submit a **screenshot** of the final completion screen.
 
 ## Submission

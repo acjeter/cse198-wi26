@@ -10,30 +10,46 @@ nav_order: 1
 **Winter 2026 Directed Group Study**
 {: .fs-6 .fw-300 }
 
-Welcome to the CSE 198 HKN Outreach course website. This course offers students the opportunity to design and teach interactive K-12 lessons for socioeconomically disadvantaged students, building skills in teaching, public speaking, and communication.
+Welcome to the CSE 198 Outreach course website. This course offers students the unique opportunity to design and teach interactive K-12 lessons for socioeconomically disadvantaged students in the San Diego area, building invaluable transferable skills in teaching, public speaking, leadership, teamwork, and communication.
 
 ---
 
 ## Start Here
 
-1. **Join the Discord**
-   [Join Server](https://discord.gg/8MJyMj6HKr)
-   *Required for all course communication and ride coordination.*
+{: .important-title }
+> **Important**
+> 
+> 1. **Complete the [Enrollment Confirmation Form](https://forms.gle/mMBi6faZte776mZ49)**
+>    <br>
+>    *First step in confirming your enrollment! Once complete, I will send you EASy enrollment steps.*
+>    
+> 2. **Confirm your ability to attend the in-person weekly meetings.**
+>    <br>
+>    *Our primary meeting time is **Thursdays from 5:00-6:00 PM**. If you cannot attend, please fill out the [Hybrid Alternate Meeting Timeful](https://timeful.app/e/ff972) ASAP.*
 
-2. **Create HKN Portal Account**
-   [HKN Outreach Portal](https://portal.hknucsd.com/)
-   *Required for RSVPing to events and tracking points.*
+{: .note-title }
+> **Next Steps**
+> 
+> 1. **Join the [Discord Server](https://discord.gg/8MJyMj6HKr)**
+>    <br>
+>    *Necessary for all course communication and ride coordination.*
+>
+> 2. **Check the [Course Schedule](docs/schedule.html)**
+>    <br>
+>    *Helpful for planning your time :)*
 
-3. **Check the Schedule**
-   [View Weekly Schedule](docs/schedule.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+<!-- 3. **Create an [HKN Outreach Portal](https://portal.hknucsd.com/outreach_form/V0kyNg/) Account**
+   <br>
+   *Necessary for RSVPing to events and tracking points.* -->
 
+
+   
 ---
 
-## Next Steps needed from you
-{: .important }
-- **Week 1-3:** Attend meetings and optional presentation skills sessions.
+## Looking Ahead
+- **Week 1-3:** Attend weekly meetings, and develop your lesson in groups.
 - **By Week 4:** Complete and submit [Mandated Reporter Training](docs/assignments/mandated-reporter.html).
-- **Weekly:** Check the [Calendar](docs/calendar.html) for upcoming outreach events.
+- **Beginning Week 5:** Check the [Calendar](docs/calendar.html) for upcoming outreach events. Dates will be announced soon! 🙂
 
 ---
 
