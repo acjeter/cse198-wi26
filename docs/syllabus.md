@@ -115,7 +115,7 @@ Complete these UCSD trainings by **Week 4**:
 - CANRA — California Mandated Reporter  
 - Abuse Risk Mgmt. for Volunteers  
 
-{: .note }
+{: .note-title }
 > **Note**
 >
 > If you cannot access those, please notify the CSE Outreach Chair. All that is needed are screenshots of your certificates for our records.
@@ -148,8 +148,8 @@ To receive a **passing grade**, you must meet **all** of the following:
 - Submit feedback forms for **all lessons attended**  
 - Create a final presentation/report as described above  
 
-{: .warning }
-> **Warning**
+{: .important-title }
+> **Important**
 >
 > Failure to meet the outreach minimums or submit required reflections/training will result in a No Pass. Please contact the CSE Outreach Chair if you have any extenuating circumstances, and/or you require OSD accommodations.
 
