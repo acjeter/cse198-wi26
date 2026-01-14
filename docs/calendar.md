@@ -39,4 +39,4 @@ Upcoming outreach opportunities. **RSVP on the HKN Portal is required.**
 {%- endfor %}
 
 > [!TIP]
-> Visit the [HKN Outreach Portal](https://hknhub.ucsd.edu/) for the most up-to-date list of events and real-time availability.
+> Visit the [HKN Outreach Portal](https://portal.hknucsd.com/) for the most up-to-date list of events and real-time availability.

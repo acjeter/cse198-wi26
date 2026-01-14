@@ -8,6 +8,8 @@ gem "jekyll-sass-converter", "~> 2.0" # Force sassc instead of sass-embedded
 gem "jekyll-remote-theme"
 gem "jekyll-seo-tag"
 gem "jekyll-include-cache"
+gem "rake"
+
 
 
 
