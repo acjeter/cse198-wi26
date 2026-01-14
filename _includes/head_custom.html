@@ -40,10 +40,16 @@
         'link[href*="just-the-docs-"][rel="stylesheet"]'
       );
       if (themeLink) {
-        themeLink.setAttribute(
-          'href',
-          '/assets/css/just-the-docs-' + nextTheme + '.css'
-        );
+        const currentHref = themeLink.getAttribute('href');
+        const nextHref = currentHref
+          ? currentHref.replace(
+              /just-the-docs-(default|light|dark)\.css/,
+              'just-the-docs-' + nextTheme + '.css'
+            )
+          : null;
+        if (nextHref && nextHref !== currentHref) {
+          themeLink.setAttribute('href', nextHref);
+        }
       }
       document.documentElement.setAttribute('data-theme', nextTheme);
       if (persist) {
