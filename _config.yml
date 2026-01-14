@@ -4,6 +4,10 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 
+# Deployment Settings
+url: "https://www.andrewcjeter.com"
+baseurl: "/cse198-wi26"
+
 # Navigation
 aux_links:
   "HKN Outreach Portal": https://portal.hknucsd.com/
