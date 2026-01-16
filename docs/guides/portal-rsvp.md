@@ -8,19 +8,23 @@ permalink: /docs/guides/portal-rsvp.html
 
 # How to RSVP on the HKN Portal
 
-The [HKN Outreach Portal](https://hknhub.ucsd.edu/) is the single source of truth for all events.
+The [HKN Outreach Portal](https://portal.hknucsd.com/) is the single source of truth for all events.
 
 ## Step 1: Create an Account
-1. Go to [hknhub.ucsd.edu](https://hknhub.ucsd.edu/).
+1. Go to [portal.hknucsd.com](https://portal.hknucsd.com/).
 2. Log in with your UCSD credentials.
 
 ## Step 2: Find an Event
-1. Navigate to the "Events" or "Calendar" tab.
-2. Look for events tagged with **CSE 198** or general Outreach.
+1. Navigate to the "Events" tab.
+2. Look for events tagged with **CSE/ECE/MAE 198** or general Outreach.
 
-## Step 3: Sign Up
-1. Click the "Sign Up" button.
-2. Verify you have received a confirmation email.
+## Step 3: RSVP
+1. Click the "RSVP" button. to indicate that you plan to attend the event.
+2. Confirm that you've completed the associated content quiz, if you are not a creator of the lesson.
+
+## Step 4: Check-In
+1. One to two days before the event, rides will be assigned in the #rides channel on Discord.
+2. Please view [rides](/docs/rides.html) for what to expect during ride assignment.
 
 {: .important-title }
 > **Important**
