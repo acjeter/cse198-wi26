@@ -2,6 +2,11 @@
 
 This repository hosts the course website for CSE 198 HKN Outreach, built with Jekyll and the "Just the Docs" theme.
 
+## Licensing
+
+- **Code/config:** Apache License 2.0 (see `LICENSE`).
+- **Site/course content (Markdown text, syllabus, guides, images/media):** © 2026 Andrew Jeter — **All rights reserved**, unless a page/file states otherwise (see `NOTICE`).
+
 ## Setup & Editing
 
 ### Prerequisites
