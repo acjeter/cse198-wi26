@@ -50,7 +50,7 @@ For school-required outreach events, HKN (via the ECE department) may reimburse 
 {: .note-title }
 > **Questions?**
 >
-> If you are unsure about what qualifies or what to submit, ask in the `#rides` channel on Discord or contact the CSE Outreach Chair or HKN VP of Academic Outreach at the contacts listed in the [Syllabus](/docs/syllabus.html).
+> If you are unsure about what qualifies or what to submit, ask in the `#rides` channel on Discord or contact the CSE Outreach Chair or HKN VP of Academic Outreach at the contacts listed in the [Syllabus](../syllabus.html).
 
 ## Transportation & Liability Disclaimer
 - Carpools are **optional** and coordinated as a convenience for volunteers.

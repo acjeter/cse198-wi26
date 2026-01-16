@@ -24,7 +24,7 @@ The [HKN Outreach Portal](https://portal.hknucsd.com/) is the single source of t
 
 ## Step 4: Check-In
 1. One to two days before the event, rides will be assigned in the #rides channel on Discord.
-2. Please view [rides](/docs/rides.html) for what to expect during ride assignment.
+2. Please view [rides](rides.html) for what to expect during ride assignment.
 
 {: .important-title }
 > **Important**

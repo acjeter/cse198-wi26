@@ -11,6 +11,6 @@ permalink: /docs/guides/index.html
 
 ## Step-by-Step Instructions
 
-- [How to RSVP on the Portal](portal-rsvp.html)
-- [Ride Scheduling & Logistics](rides.html)
+- [How to RSVP for an event on the HKN Portal](portal-rsvp.html)
+- [Ride Scheduling & Reimbursement Logistics](rides.html)
 - [Taking the Content Quiz](content-quiz.html)

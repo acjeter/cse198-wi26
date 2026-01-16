@@ -13,9 +13,14 @@ permalink: /docs/assignments/index.html
 
 Throughout the quarter, you will need to complete several key deliverables. Use the links below for detailed instructions.
 
-- [Mandated Reporter Training](mandated-reporter.html) - **Due Week 4**
-- [Post-Lesson Reflections](reflections.html) - **2 Total, Rolling Deadlines**
-- [Final Presentation & Report](final-project.html) - **Due Week 10**
+- [Mandated Reporter Training](mandated-reporter.html) - **Due by your Week 4 Weekly Meeting**
+- [Post-Lesson Reflections](reflections.html) - **2 Total, Rolling Deadlines, Hard Deadline Friday of Week 10**
+- [Final Presentation & Report](final-project.html) - **Presentation Due Week 10**
 
 ## Submission Links
-For a quick list of where to submit everything, visit the [Submissions](../submissions.html) page.
+Since this course does not have a Canvas capable of central submissions, please visit the [Submissions](../submissions.html) page for links to specific google folders where your assignments will be submitted. 
+
+{: .note-title} 
+> **Note**
+> 
+> You must be logged into your UC San Diego Google account to be able to access all of these folders.
