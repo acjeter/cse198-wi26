@@ -46,6 +46,8 @@ remote_theme: just-the-docs/just-the-docs@v0.5.4
 
 callouts_level: loud  # loud = shaded box, quiet = subtle
 callouts:
+  highlight:
+    color: yellow
   important:
     title: Important
     color: red
