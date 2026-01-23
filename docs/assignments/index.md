@@ -13,7 +13,7 @@ permalink: /docs/assignments/index.html
 
 Throughout the quarter, you will need to complete several key deliverables. Use the links below for detailed instructions.
 
-- [Mandated Reporter Training](mandated-reporter.html) - **Due by your Week 4 Weekly Meeting**
+- [Mandated Reporter Training](mandated-reporter.html) - **Due by EOD Sunday, February 1st**
 - [Post-Lesson Reflections](reflections.html) - **2 Total, Rolling Deadlines, Hard Deadline Friday of Week 10**
 - [Final Presentation & Report](final-project.html) - **Presentation Due Week 10**
 

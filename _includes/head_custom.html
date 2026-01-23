@@ -15,6 +15,18 @@
     outline: 2px solid var(--link-color);
     outline-offset: 2px;
   }
+
+  /* Override blue callout color for dark mode to improve contrast */
+  [data-theme="dark"] .note {
+    border-color: #60a5fa;
+    border-left-color: #60a5fa;
+  }
+
+  [data-theme="dark"] .note::before,
+  [data-theme="dark"] .note-title,
+  [data-theme="dark"] .note .note-title {
+    color: #60a5fa;
+  }
 </style>
 
 <script>
@@ -43,9 +55,9 @@
         const currentHref = themeLink.getAttribute('href');
         const nextHref = currentHref
           ? currentHref.replace(
-              /just-the-docs-(default|light|dark)\.css/,
-              'just-the-docs-' + nextTheme + '.css'
-            )
+            /just-the-docs-(default|light|dark)\.css/,
+            'just-the-docs-' + nextTheme + '.css'
+          )
           : null;
         if (nextHref && nextHref !== currentHref) {
           themeLink.setAttribute('href', nextHref);

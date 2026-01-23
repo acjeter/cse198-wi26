@@ -1,31 +1,31 @@
 ---
 layout: default
 title: Mandated Reporter Training
+type: guide
 parent: Assignments
 nav_order: 1
 permalink: /docs/assignments/mandated-reporter.html
 ---
 
 # Mandated Reporter Training
+## California State Law and UC Policy
 
-All students working with minors must complete the UC-required Mandated Reporter Training.
+- California requires all individuals interacting with K-12 students (volunteers) to complete a mandated reporter training.
+- This training protects students from domestic violence, child abuse, and other harms that may be inflicted upon them outside or inside of the classroom.
+- If you see something, say something.
+- UCSD has two e-learning modules that will satisfy this requirement for all of you.
 
-## Requirements
-- **Deadline:** Week 4.
-- **Trainings:**
-  1. CANRA (Child Abuse and Neglect Reporting Act)
-  2. Abuse Risk Management for Volunteers
+{: .important-title }
+> **Course Requirement**
+> 
+> You must complete both trainings in order to satisfy the requirement, and submit both certificates by EOD Sunday, February 1st.
 
-## Instructions
-1. Log in to the [UCSD Learning Center](https://learningcenter.ucsd.edu/).
-2. Search for "CANRA" and "Abuse Risk Management".
-3. Complete both modules.
-4. Save your **Completion Certificates**.
+### Training Modules:
 
-{: .note-title }
-> **Note**
->
-> If you cannot access the official UCSD course, you may take the alternative public version (without purchasing a certificate) and submit a **screenshot** of the final completion screen.
+1. Complete the [CANRA Mandated Reporter Training](https://a4.ucsd.edu/lms/?target=https://uc.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D283712%26UserMode%3D0&domain=15)
+2. Complete the [Abuse Risk Management Training](https://a4.ucsd.edu/lms/?target=https://uc.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D332042%26UserMode%3D0&domain=15)
 
-## Submission
-Email your certificate or screenshot to the [Course Staff](../staff.html) or submit via the designated link on the [Submissions](../submissions.html) page.
+### Submission:
+
+1. Once both are completed, access your "Completed Trainings" page, and view the certificates for each training. Please submit both certificates to the Mandated Reporter Training Google Form for submission.
+![Steps for navigating to the "Completed Trainings" page](mandatedreportersteps.png)
