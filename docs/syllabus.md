@@ -23,14 +23,10 @@ permalink: /docs/syllabus.html
 ## Overview
 This program facilitates the creation and delivery of interactive and engaging lessons to socioeconomically disadvantaged K–12 students in the San Diego area, aiming to inspire and introduce students to various engineering disciplines while fostering a passion for learning and creating.
 
----
-
 ## Instructional team
 - **Course Leader:** Andrew Jeter (CSE Outreach Chair, HKN) — [ajeter@ucsd.edu](mailto:ajeter@ucsd.edu)  
 - **Executive Director:** Collin Walmsley (VP Academic Outreach, HKN) — [cowalmsley@ucsd.edu](mailto:cowalmsley@ucsd.edu)  
 - **Faculty Advisor:** Professor Trevor Bonjour (CSE) — [tbonjour@ucsd.edu](mailto:tbonjour@ucsd.edu)  
-
----
 
 ## Course goals
 By the end of the quarter, students should be able to:

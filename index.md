@@ -19,13 +19,13 @@ Welcome to the CSE 198 Outreach course website. This course offers students the 
 {: .important-title }
 > **Important**
 > 
-> 1. **Complete the [Enrollment Confirmation Form](https://forms.gle/mMBi6faZte776mZ49)**
+> 1. **Monitor your EASy Enrollment Request**
 >    <br>
->    *First step in confirming your enrollment! Once complete, I will send you EASy enrollment steps.*
+>    *Now that you've made an easy request, make sure it's in process. If you have trouble, please contact Andrew ASAP.*
 >    
-> 2. **Confirm your ability to attend the in-person weekly meetings.**
+> 2. **Note the Weekly Meeting Times**
 >    <br>
->    *Our primary meeting time is **Thursdays from 5:00-6:00 PM**. If you cannot attend, please fill out the [Hybrid Alternate Meeting Timeful](https://timeful.app/e/ff972) ASAP.*
+>    *Our primary in-personmeeting time is **Thursdays from 5:00-6:00 PM in CSE 4258**. If you cannot make this meeting, our alternate hybrid meeting is **Fridays from 5:00-6:00 PM in CSE 4258 and on Zoom**.*
 
 {: .note-title }
 > **Next Steps**
@@ -37,13 +37,11 @@ Welcome to the CSE 198 Outreach course website. This course offers students the 
 > 2. **Check the [Course Schedule](docs/schedule.html)**
 >    <br>
 >    *Helpful for planning your time :)*
+>
+> 3. **Create an [HKN Outreach Portal Account](docs/guides/portal-rsvp.html)**
+>    <br>
+>    *Necessary for RSVPing to events and tracking points.*
 
-<!-- 3. **Create an [HKN Outreach Portal](https://portal.hknucsd.com/outreach_form/V0kyNg/) Account**
-   <br>
-   *Necessary for RSVPing to events and tracking points.* -->
-
-
-   
 ---
 
 ## Looking Ahead
