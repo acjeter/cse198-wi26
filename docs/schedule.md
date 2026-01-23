@@ -10,10 +10,10 @@ permalink: /docs/schedule.html
 
 Below is the week-by-week schedule for CSE 198. Please note that exact topics may shift.
 
-| Week | Phase / Topic | Slides | Notes | Due |
-|:-----|:--------------|:-------|:------|:----|
+| Week | Date | Phase / Topic | Slides | Notes | Due |
+|:-----|:-----|:--------------|:-------|:------|:----|
 {%- for item in site.data.schedule %}
-| **{{ item.week }}** | {{ item.topic }}<br>_{{ item.dates }}_ | {% if item.slides and item.slides != "" %}[Link]({{ item.slides }}){% else %}-{% endif %} | {{ item.notes }} | {{ item.due }} |
+| **{{ item.week }}** | {{ item.dates }} | {{ item.topic }} | {% if item.slides and item.slides != "" %}[Link]({{ item.slides }}){% else %}-{% endif %} | {{ item.notes }} | {{ item.due }} |
 {%- endfor %}
 
 {: .note-title }
