@@ -18,7 +18,7 @@ search_enabled: true
 heading_anchors: true
 
 # Footer
-footer_content: "CSE 198 Winter 2026 | Copyright © 2026 Andrew Jeter | University of California, San Diego"
+footer_content: "CSE 198 Winter 2026 - Copyright © 2026 [Andrew Jeter](https://www.andrewcjeter.com) - University of California, San Diego"
 
 # Collections (optional, enables _assignments folder if we want strict collection usage)
 collections:
