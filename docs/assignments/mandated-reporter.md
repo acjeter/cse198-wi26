@@ -27,5 +27,5 @@ permalink: /docs/assignments/mandated-reporter.html
 
 ### Submission:
 
-1. Once both are completed, access your "Completed Trainings" page, and view the certificates for each training. Please submit both certificates to the Mandated Reporter Training Google Form for submission.
+1. Once both are completed, access your "Completed Trainings" page, and view the certificates for each training. Please submit both certificates to the Mandated Reporter Training Google Form [here](https://forms.gle/K3jDPDJ11Q8DnPKs7) by EOD Sunday, February 1st.
 ![Steps for navigating to the "Completed Trainings" page](mandatedreportersteps.png)

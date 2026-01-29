@@ -14,10 +14,10 @@ All course deliverables should be submitted via the links below.
 
 | Deliverable | Submission Method |
 |:------------|:------------------|
-| **Post-Lesson Feedback** | [Google Form (Placeholder)](https://forms.google.com/placeholder) |
-| **Reflections** | [Google Form / Dropbox (Placeholder)](https://forms.google.com/placeholder) |
-| **Mandated Reporter Cert** | Email to Staff / Upload (Placeholder) |
-| **Final Presentation Slides** | [Google Folder (Placeholder)](https://drive.google.com/placeholder) |
+| **Post-Lesson Feedback** | TBD |
+| **Reflections** | TBD |
+| **Mandated Reporter Cert** | [Google Form](https://forms.gle/K3jDPDJ11Q8DnPKs7) |
+| **Final Presentation Slides** | TBD |
 
 ## Submission Checklist
 {: .note }
