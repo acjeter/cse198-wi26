@@ -12,6 +12,9 @@ permalink: /docs/syllabus.html
 **CSE 198: Eta Kappa Nu (HKN) Outreach**  
 **Directed Group Study — 2 units**
 
+[View Syllabus (Google Doc)](https://docs.google.com/document/d/1wiL3-jqTpfv2t_iJoTuCuH0k4If8qNjWFesCJYAmVBU/edit?usp=sharing){: .btn .btn-hollow target="_blank" }
+
+
 ## Table of Contents
 {: .no_toc .text-delta }
 
@@ -23,12 +26,12 @@ permalink: /docs/syllabus.html
 ## Overview
 This program facilitates the creation and delivery of interactive and engaging lessons to socioeconomically disadvantaged K–12 students in the San Diego area, aiming to inspire and introduce students to various engineering disciplines while fostering a passion for learning and creating.
 
-## Instructional team
+## Instructional Team
 - **Course Leader:** Andrew Jeter (CSE Outreach Chair, HKN) — [ajeter@ucsd.edu](mailto:ajeter@ucsd.edu)  
 - **Executive Director:** Collin Walmsley (VP Academic Outreach, HKN) — [cowalmsley@ucsd.edu](mailto:cowalmsley@ucsd.edu)  
 - **Faculty Advisor:** Professor Trevor Bonjour (CSE) — [tbonjour@ucsd.edu](mailto:tbonjour@ucsd.edu)  
 
-## Course goals
+## Course Goals
 By the end of the quarter, students should be able to:
 - Design educational, fun, and interactive lessons for K–12 students  
 - Conduct and present outreach lessons at K–12 schools  
@@ -39,7 +42,8 @@ By the end of the quarter, students should be able to:
 
 ## Logistics
 
-### Weekly class sessions
+### Weekly Class Meetings
+{: .no_toc }
 - Students are required to attend **one hour-long weekly meetings** focused on teaching skills, lesson development, and practice presentations.  
 - Early in the quarter, **optional presentation skills sessions** may be hosted depending on student needs.  
 
@@ -47,11 +51,13 @@ By the end of the quarter, students should be able to:
 
 ## Responsibilities
 
-### Group work
+### Group Work
+{: .no_toc }
 - Improve/create your chosen/assigned lesson with lesson quality in mind  
 - Prepare outreach lesson materials for hands-on activities and projects  
 
-### Outreach participation (events + lessons)
+### Outreach Participation
+{: .no_toc }
 - Attend a **minimum of five lessons/events (five “points”)** throughout the quarter by teaching/assisting with lessons (MAE/ECE lessons count) or by participating in outreach events (e.g., on-campus tours).  
 - You must attend **at least two designated CSE 198 lessons**.  
 - Lessons are assigned points on the HKN Portal: **1 hour = 1 point**.  
@@ -60,13 +66,15 @@ By the end of the quarter, students should be able to:
 
 ---
 
-## CSE lesson requirements
+## CSE Lesson Requirements
 
-### Lesson design & delivery
+### Lesson Design & Delivery
+{: .no_toc }
 - Design a high-quality lesson for your desired/assigned topic (in a group).  
 - Implement activities and teaching content appropriate to the specific school/age group.  
 
-### Content quiz requirement (Google Forms)
+### Content Quiz
+{: .no_toc }
 - For each lesson, the group must create a short **Content Quiz** (Google Forms) covering key concepts.  
 - Lessons + the corresponding content quiz must be **finalized two days prior** to the event and confirmed with the course leader.  
 - To attend a lesson and be assigned a ride, a student must review the lesson content and **pass the Content Quiz once** to demonstrate understanding.  
@@ -74,15 +82,18 @@ By the end of the quarter, students should be able to:
 
 ---
 
-## Reflections & feedback
+## Reflections & Feedback
 
-### Post-lesson reflections (2 total)
+### Post-lesson Reflections
+{: .no_toc }
 Write **two** total reflections (1–2 pages each) after attending CSE 198 lessons. Topics may include what was successful/unsuccessful, how to improve the lesson, general thoughts, etc.  
 
-### Post-lesson feedback form (every lesson attended)
+### Post-lesson Feedback Form
+{: .no_toc }
 Submit a feedback form response **within 24 hours** of each lesson you attend (links provided via Discord and on the HKN Portal event description).  
 
-### Example timeline (per lesson)
+### Example Timeline (per lesson)
+{: .no_toc }
 A typical cadence is:
 - **Two days before (by 12:00pm):** lesson presentation + quiz due and submitted  
 - **One day before (by 12:00pm):** attendees complete the quiz to be assigned a ride  
@@ -91,12 +102,12 @@ A typical cadence is:
 
 ---
 
-## Pedagogical learning/research
+## Pedagogical Learning/Research
 Research one area of your choice in hands-on learning and pedagogy. Perform a literature search and write a summary of your findings and how you will apply them to your lesson. Include this within your post-lesson reflection. 
 
 ---
 
-## Final presentation / report
+## Final Presentation
 Create an **individual final presentation** (about **2–3 minutes**) highlighting the outreach work completed during the quarter. Include:
 - Brief descriptions of lessons developed  
 - Overview of lesson delivery at schools  
@@ -104,7 +115,8 @@ Create an **individual final presentation** (about **2–3 minutes**) highlighti
 
 ---
 
-## Mandated reporter training (required)
+## Mandated Reporter Training 
+
 Because volunteers work with children, participants are considered mandated reporters under California state law and must complete mandated reporter training and send the completion certificate.  
 
 Complete these UCSD trainings by **Week 4**:
@@ -118,12 +130,13 @@ Complete these UCSD trainings by **Week 4**:
 
 ---
 
-## Course materials & communication
+## Course Materials & Communication
 - The **HKN Outreach Portal** lists scheduled lessons; students are responsible for finding and RSVPing to enough lessons to meet the five-lesson minimum. Instructions for signing up will be provided after enrollment confirmation.  
 - **Discord is the primary communication channel** for updates, reminders, group discussions, and ride scheduling; joining is required.  
   - Discord link: [https://discord.gg/8MJyMj6HKr](https://discord.gg/8MJyMj6HKr)  
 
-### Quarter timeline (high level)
+### Quarter Timeline
+{: .no_toc }
 - Week 1: Info sessions, intro, logistics  
 - Week 2: Group assignments, brainstorming lesson ideas  
 - Weeks 2–3: Creating lessons, pedagogy research  
@@ -132,7 +145,7 @@ Complete these UCSD trainings by **Week 4**:
 
 ---
 
-## Grading (Pass/No Pass)
+## Grading
 This course is graded **Pass/No Pass**.  
 
 To receive a **passing grade**, you must meet **all** of the following:
@@ -151,12 +164,13 @@ To receive a **passing grade**, you must meet **all** of the following:
 
 ---
 
-## Optional: Technical elective / GE credit (technical report option)
+## Optional: Technical Elective / General Education Credit
 If you have taken **two quarters** of the outreach program and want to petition for a technical elective (CSE) or **one to two quarters** for GE credit (e.g., Sixth College Experiential Learning/Practicum (4 units) or Seventh College “High Impact” (2 units)), you must write a **technical report** (check with your advisors for eligibility). 
 
 Please view the [Policies](../policies.html) page for more information regarding criteria.
 
-### Technical report guidelines
+### Technical Report Guidelines
+{: .no_toc }
 - The technical report **replaces** the final presentation/report (you do not submit two final reports).    
 - Write an individual report (**2–4 pages**) summarizing your experience, including:
   - Design of outreach lessons  
